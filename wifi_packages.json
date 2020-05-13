@@ -1,0 +1,92 @@
+[
+  {
+    "wifi_package_id": "W1001",
+    "wifi_package_name": "1-Hour Pass",
+    "wifi_package_description": "One hour of continuous access on any single domestic* equipped flight with any  participating airline",
+    "wifi_package_quantity": "1 hour",
+    "wifi_package_price": "7.00",
+    "wifi_package_expires": "30 days",
+    "wifi_package_type": "time",
+    "client_id": "Viasat"
+  },
+  {
+    "wifi_package_id": "W1002",
+    "wifi_package_name": "All-Day Pass",
+    "wifi_package_description": "24 hours of continuous access on any domestic* flight with any single participating airline",
+    "wifi_package_quantity": "1 day",
+    "wifi_package_price": "19.00",
+    "wifi_package_expires": "1 year",
+    "client_id": "Viasat",
+    "wifi_package_type": "time"
+  },
+  {
+    "wifi_package_id": "WD1001",
+    "wifi_package_name": "Delta Global Day Pass",
+    "wifi_package_description": "Pass valid for 24 hours of continuous access on any flight on Delta Air Lines",
+    "wifi_package_quantity": "24",
+    "wifi_package_price": "28.00",
+    "wifi_package_expires": "1 year",
+    "client_id": "Viasat",
+    "wifi_package_type": "time"
+  },
+  {
+    "wifi_package_id": "WPM1001",
+    "wifi_package_name": "Monthly Airline Plan",
+    "wifi_package_description": "Monthly access on domestic* flights on your favorite airline",
+    "wifi_package_quantity": "720",
+    "wifi_package_price": "49.99",
+    "wifi_package_expires": "1 Month",
+    "client_id": "Viasat",
+    "wifi_package_type": "time"
+  },
+  {
+    "wifi_package_id": "WPM1002",
+    "wifi_package_name": "2-Device Plan",
+    "wifi_package_description": "2-devices monthly access on domestic* flights on your favorite airline",
+    "wifi_package_quantity": "720",
+    "wifi_package_price": "59.99",
+    "wifi_package_expires": "1 Month",
+    "client_id": "Viasat",
+    "wifi_package_type": "time"
+  },
+  {
+    "wifi_package_id": "WDM1003",
+    "wifi_package_name": "Global Delta Plan",
+    "wifi_package_description": "Monthly internet access on all domestic and international flights on Delta Air Lines",
+    "wifi_package_quantity": "720",
+    "wifi_package_price": "69.99",
+    "wifi_package_expires": "1 Month",
+    "client_id": "Viasat",
+    "wifi_package_type": "time"
+  },
+  {
+    "wifi_package_id": "WPY1001",
+    "wifi_package_name": "Annual Airline Plan",
+    "wifi_package_description": "Yearly access on domestic* flights on your favorite airline",
+    "wifi_package_quantity": "8760",
+    "wifi_package_price": "599.99",
+    "wifi_package_expires": "1 Year",
+    "client_id": "Viasat",
+    "wifi_package_type": "time"
+  },
+  {
+    "wifi_package_id": "WS1001",
+    "wifi_package_name": "300 KBBS speed package",
+    "wifi_package_description": "300 KBPS text-only access on any single domestic* equipped flight with any  participating airline",
+    "wifi_package_speed": "300 KBPS",
+    "wifi_package_price": "5.00",
+    "wifi_package_expires": "30 days",
+    "wifi_package_type": "speed",
+    "client_id": "Viasat"
+  },
+  {
+    "wifi_package_id": "WS1002",
+    "wifi_package_name": "1 MBPS speed package",
+    "wifi_package_description": "1 MBPS text-only access on any single domestic* equipped flight with any  participating airline",
+    "wifi_package_speed": "1 MBPS",
+    "wifi_package_price": "30.00",
+    "wifi_package_expires": "30 days",
+    "wifi_package_type": "speed",
+    "client_id": "Viasat"
+  }
+]
